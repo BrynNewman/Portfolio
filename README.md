@@ -10,3 +10,9 @@ Bryn Newman's Portfolio
  
  Thank you,
  Bryn Newman
+
+# Updates planned
+Changes to UI
+Colouring, layout, images and a more robust about me section
+More projects!!
+Automation Projects and more
